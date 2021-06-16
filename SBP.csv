@@ -1,4 +1,4 @@
-Age,Weight,SBP
+Age(years),Weight(KG),Systolic BP(mm Hg)
 60,58,117
 61,90,120
 74,96,145
